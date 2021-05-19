@@ -10,7 +10,6 @@ let b = 5
 let result = a + b
 alert(result)
 
-//task 3
 let a = 8
 let b = 5
 let result = a - b
@@ -39,29 +38,29 @@ let result = a % b
 alert(result)
 
 //task 3
-var sampleNumber = 78756 
+let sampleNumber = 78756 
 lastDigit = sampleNumber % 10
 console.log(lastDigit)
 
-var sampleNumber = -122 
+let sampleNumber = -122 
 lastDigit = sampleNumber % 10
 console.log(lastDigit)
 
-var sampleNumber = 8 
+let sampleNumber = 8 
 lastDigit = sampleNumber % 10
 console.log(lastDigit)
 
-var sampleNumber = 0
+let sampleNumber = 0
 lastDigit = sampleNumber % 10
 console.log(lastDigit)
 
-
+//task 4
 let myName = "Tatev"
 let age = 32
 alert ("My name is " + myName +"," + " I am " + age)
 
 
-
+//task5
 let a = 8;
 let b = 12;
 
